@@ -27,7 +27,7 @@ I'm currently focusing on enhancing my skills in Machine Learning and exploring 
 
 ## 📫 Get in Touch
 - <https://www.linkedin.com/in/sentientnemo/>
-- <karanb.in>
+- <https://karanb.in>
 - <karanbhatia@protonmail.com>
 
 Feel free to reach out to me if you have any questions or just want to say hi! I'm always open to interesting conversations and collaboration opportunities.

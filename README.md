@@ -26,10 +26,9 @@ Here are a few technologies I've been working with recently:
 I'm currently focusing on enhancing my skills in Machine Learning and exploring projects on Kaggle. <!--in-depth.-->
 
 ## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/sentientnemo/)
-<!-- - Twitter: [Your Twitter URL] -->
-- [Website](karanb.in)
-- Email: <karanbhatia@protonmail.com>
+- <https://www.linkedin.com/in/sentientnemo/>
+- <karanb.in>
+- <karanbhatia@protonmail.com>
 
 Feel free to reach out to me if you have any questions or just want to say hi! I'm always open to interesting conversations and collaboration opportunities.
 
